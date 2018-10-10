@@ -1,4 +1,3 @@
-// require('babel-register');
 const Point = require('./Point');
 const point = new Point(1, 2);
 const log = console.log;
